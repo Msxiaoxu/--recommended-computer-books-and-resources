@@ -1,2 +1,1 @@
-# --recommended-computer-books-and-resources
-一些推荐的资源
+计算机书籍和一些资源推荐
